@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vamsi-kanakam
 - 👀 I’m interested in Tech and arts
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on open souce 
+- 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me ...
 
 <!---
