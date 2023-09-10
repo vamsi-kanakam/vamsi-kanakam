@@ -3,8 +3,8 @@
 - 🌱 I’m a Computer Science Major.
 - 🌎📍 Currently staying in USA.
 - 💞️ I’m looking to collaborate on open-source 
-- 📫 How to reach me 
-      - mailto:vamsikanakam2002@gmail.com
+- 📫 How to reach me : <br>
+      - mailto:vamsikanakam2002@gmail.com<br>
       - ping me on linked in https://www.linkedin.com/in/vamsi-kanakam-64b309197/
 
 <!---
